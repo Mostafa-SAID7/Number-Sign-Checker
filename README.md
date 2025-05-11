@@ -26,15 +26,15 @@ For invalid input (non-integer):
 Enter a number: hello
 Invalid input. Please enter a valid integer.
 ```
-###Tech Stack
-C# (Console Application)
-.NET Core / .NET Framework (depending on your environment)
+## Tech Stack
+1. C# (Console Application)
+2. .NET Core / .NET Framework (depending on your environment)
 
-###Contributing
-Feel free to fork this project, make changes, and submit pull requests if you'd like to contribute.
+## Contributing
+- Feel free to fork this project, make changes, and submit pull requests if you'd like to contribute.
 
-###License
-This project is licensed under the MIT License.
+## License
+- This project is licensed under the MIT License.
 
 ### Explanation:
 - The title `# Number Sign Checker in C#` is the repository name or project title.
